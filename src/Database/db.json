@@ -1,0 +1,52 @@
+
+
+
+{
+  "users": [
+    {
+      "name": "Anhar Dhiman",
+      "username": "anhardhiman0000",
+      "email": "anhar@gmail.com",
+      "phone": "987654321",
+      "website": "www.xyz.com",
+      "zipcode": "123456",
+      "id": 1
+    },
+    {
+      "name": "Atharv",
+      "username": "babi",
+      "email": "atharv@gmail.com",
+      "phone": "7523658444",
+      "website": "www.xabc.com",
+      "zipcode": "4568",
+      "id": 4
+    },
+    {
+      "name": "Arvind",
+      "username": "kuki",
+      "email": "arvind@gmail.com",
+      "phone": "7845129856",
+      "website": "www.yuh.com",
+      "zipcode": "682147",
+      "id": 5
+    },
+    {
+      "name": "Kanika",
+      "username": "kannu",
+      "email": "kanika@gmail.com",
+      "phone": "9632658954",
+      "website": "www.jhg.com",
+      "zipcode": "351497",
+      "id": 6
+    },
+    {
+      "name": "Vansh",
+      "username": "banshu",
+      "email": "vanshu@gmail.com",
+      "phone": "8954213265",
+      "website": "www.hgf.com",
+      "zipcode": "472945",
+      "id": 7
+    }
+  ]
+}
